@@ -27,3 +27,5 @@ now all you need to do, is open a terminal/CMD window and use the `npm run main`
 Now go to Discord -> Settings -> Keybinds -> Add a Keybind, choose your action and then the key you've put in the config (without it all the script will do is just send random keys to your pc.)
 
 Now if you'll go to http://localhost/toggleMute you'll see the bot is sending the keys into your pc, and if all worked correctly, will mute your Discord!
+
+To keep the server on without the need of the cmd window open all time, make sure to check [PM2](https://pm2.keymetrics.io/)
