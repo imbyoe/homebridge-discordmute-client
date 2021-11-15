@@ -19,7 +19,9 @@ Open config.json file using a tool like: [Notepad++](https://notepad-plus-plus.o
 then edit these values:
 
 `deafen_key` - The key that will be used to deafen.
+
 `port` - the port of the express Server (leave as is if you don't know what that means.)
+
 `mute_key` - The key that will be used to mute.
 
 now all you need to do, is open a terminal/CMD window and use the `npm run main` Command to start the server.
