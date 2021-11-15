@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "robotjs": "^0.6.0"
+  },
+  "name": "homebridge-discordmute-client",
+  "version": "1.0.0",
+  "description": "a client to mute your Discord Client using an Express server.",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "author": "Byoe",
+  "license": "MIT"
+}
