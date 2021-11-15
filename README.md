@@ -4,7 +4,7 @@ this plugin allows you to Mute yourself on Discord through an Express server, al
 ## How Does it work?
 It's actually way simpler than you think. 
 
-All the script does is listen for get requests and sends key input to your computer.
+All the script does is listen for GET requests and sends key input to your computer.
 
 The keys can be set via the config file, and to make it mute your Discord client, you just make a keybind on Discord settings to the same key you've put in the config file.
 
